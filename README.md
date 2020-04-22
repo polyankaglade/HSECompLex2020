@@ -6,6 +6,7 @@
 * Gensim
 * pymorphy2 (rus)
 * pyMystem (rus)
+* [большой список прочего разного](https://github.com/josephmisiti/awesome-machine-learning#natural-language-processing-10)
 
 # Дополнительные материалы
 
@@ -19,7 +20,7 @@
 
 * отличный курс [Introduction to NLP with Python](https://sites.google.com/view/esslli2019-nlp/w1)
 
-*  [небольшой туториал по марковским цепям и генерации текста](https://tproger.ru/translations/markov-chains/)
+* [небольшой туториал по марковским цепям и генерации текста](https://tproger.ru/translations/markov-chains/)
 
 * библиотека [markovify](https://github.com/jsvine/markovify), которая умеет обучаться и порождать предложения с пунктуацией. Внутри есть класс Chain, которым можно создавать цепи из чего угодно, если оно в формате `список списков значений`.
 
