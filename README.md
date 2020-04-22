@@ -40,6 +40,8 @@
 
 * [Частотный словарь русского языка О. Н. Ляшевская, С. А. Шаров](http://dict.ruslang.ru/freq.php)
 
+* [серия видео про классы в питоне](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) (на английском)
+
 
 
 
